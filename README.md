@@ -7,11 +7,11 @@ With over 5 years of experience as a Full Stack Developer, I have cultivated a d
 
 - Eager to bridge the gap between developer and architect, I'm honing my skills to build infrastructures that are durable, scalable, and ready for the future <img src="https://media.giphy.com/media/dtB7kgF86VwZWY5Iee/giphy.gif" width="30">
 
-- Committed to a philosophy of lifelong learning and the pursuit of excellence in both my personal and professional life. ❤️
+- Committed to a philosophy of lifelong learning and the pursuit of excellence in both my personal and professional life ❤️
 
 <br />
 
-## Badges|
+## Badges
 [![Cisco-ModelDrivenProgrammability](https://images.credly.com/size/124x124/images/2406383c-16f4-4876-b297-6ad951c6b96b/ETW-MDP.png)](https://www.credly.com/badges/7b98cd2d-562a-4429-9b18-595946b12484)
 [![Cloud-Foundations](https://images.credly.com/size/140x140/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png)](https://www.credly.com/badges/1a4749c2-292e-4f13-9549-b6c7bc74a107)
 [![Cloud-Developing](https://images.credly.com/size/140x140/images/119182cf-ca68-495a-a415-bff62dfdcc7e/image.png)](https://www.credly.com/badges/ff25a159-c56a-4095-97a6-915a8883e804)
