@@ -16,7 +16,7 @@ With over 5 years of experience as a Full Stack Developer, I have cultivated a d
 [![Cloud-Foundations](https://images.credly.com/size/140x140/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png)](https://www.credly.com/badges/1a4749c2-292e-4f13-9549-b6c7bc74a107)
 [![Cloud-Developing](https://images.credly.com/size/140x140/images/119182cf-ca68-495a-a415-bff62dfdcc7e/image.png)](https://www.credly.com/badges/ff25a159-c56a-4095-97a6-915a8883e804)
 
-## Skills
+## Technical Skills
 ### Programming
 [![Programming](https://skillicons.dev/icons?i=js,ts,php,java,c,cpp,rust,python,bash)](https://skillicons.dev)
 ### Front End
