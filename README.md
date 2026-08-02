@@ -13,7 +13,7 @@ With over 8 years of experience as a Full Stack Developer, I have cultivated a d
 
 ## Badges
 [![Cisco-ModelDrivenProgrammability](https://images.credly.com/size/124x124/images/2406383c-16f4-4876-b297-6ad951c6b96b/ETW-MDP.png)](https://www.credly.com/badges/7b98cd2d-562a-4429-9b18-595946b12484)
-[![Cloud-Foundations](https://images.credly.com/size/680x680/images/e3541a0c-dd4a-4820-8052-5001006efc85/blob/image.png)]
+[![Cloud-Foundations](https://images.credly.com/size/680x680/images/e3541a0c-dd4a-4820-8052-5001006efc85/blob)]
 [![Cloud-Developing](https://images.credly.com/size/140x140/images/119182cf-ca68-495a-a415-bff62dfdcc7e/image.png)](https://www.credly.com/badges/ff25a159-c56a-4095-97a6-915a8883e804)
 
 ## Technical Skills
