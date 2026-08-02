@@ -28,7 +28,7 @@ With over 5 years of experience as a Full Stack Developer, I have cultivated a d
 ### Databases
 [![Databases](https://skillicons.dev/icons?i=postgresql,mysql,mongodb,dynamodb)](https://skillicons.dev)
 ### Cloud Computing
-[![Cloud Computing](https://skillicons.dev/icons?i=aws,gcp,azure,netlify,vercel,heroku&perline=3)](https://skillicons.dev)
+[![Cloud Computing](https://skillicons.dev/icons?i=aws,gcp,azure,oci,vercel&perline=3)](https://skillicons.dev)
 ### Testing
 [![Testing](https://skillicons.dev/icons?i=jest)](https://skillicons.dev)
 ### Tools
