@@ -1,7 +1,7 @@
 # Hello, I'm Jhonny Lorenzo 👋
 
 <img align="right" width="320px" height="240px" alt="Coding..." src="./code.gif" />
-With over 5 years of experience as a Full Stack Developer, I have cultivated a deep expertise in crafting administrative systems, innovative eCommerce solutions, and advanced electronic billing platforms.
+With over 8 years of experience as a Full Stack Developer, I have cultivated a deep expertise in crafting administrative systems, innovative eCommerce solutions, and advanced electronic billing platforms.
 
 - Proficient in a diverse array of technologies, I craft and refine systems to not only serve immediate needs but also support future advancements and increased load <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
@@ -18,18 +18,18 @@ With over 5 years of experience as a Full Stack Developer, I have cultivated a d
 
 ## Technical Skills
 ### Programming
-[![Programming](https://skillicons.dev/icons?i=js,ts,php,java,c,cpp,rust,python,bash)](https://skillicons.dev)
+[![Programming](https://skillicons.dev/icons?i=js,ts,java,c,cpp,rust,python,bash)](https://skillicons.dev)
 ### Front End
-[![Front End](https://skillicons.dev/icons?i=react,nextjs,angular,vue,jquery,html,css,sass,emotion,styledcomponents,bootstrap,materialui,tailwind,figma&perline=5)](https://skillicons.dev)
+[![Front End](https://skillicons.dev/icons?i=react,nextjs,angular,jquery,html,css,sass,emotion,styledcomponents,tailwind,figma&perline=5)](https://skillicons.dev)
 ### Back End
-[![Back End](https://skillicons.dev/icons?i=nodejs,express,nestjs,laravel,spring,actix,graphql,eloquent,sequelize,typeorm,mongoose&perline=6)](https://skillicons.dev)
+[![Back End](https://skillicons.dev/icons?i=nodejs,express,nestjs,spring,graphql&perline=6)](https://skillicons.dev)
 ### Mobile
-[![Back End](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
+[![Back End](https://skillicons.dev/icons?i=react,flutter)](https://skillicons.dev)
 ### Databases
 [![Databases](https://skillicons.dev/icons?i=postgresql,mysql,mongodb,dynamodb)](https://skillicons.dev)
 ### Cloud Computing
-[![Cloud Computing](https://skillicons.dev/icons?i=aws,gcp,azure,oci,vercel&perline=3)](https://skillicons.dev)
+[![Cloud Computing](https://skillicons.dev/icons?i=aws,gcp,azure,vercel&perline=3)](https://skillicons.dev)
 ### Testing
 [![Testing](https://skillicons.dev/icons?i=jest)](https://skillicons.dev)
 ### Tools
-[![Tools](https://skillicons.dev/icons?i=git,github,gitlab,vite,webpack,babel,sentry,docker,jenkins,postman,vscode,vim&perline=3)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,github,gitlab,vite,webpack,babel,sentry,terraform,docker,jenkins,postman,vscode,vim&perline=3)](https://skillicons.dev)
